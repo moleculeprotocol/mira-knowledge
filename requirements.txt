@@ -1,0 +1,11 @@
+requests
+ipykernel
+python-dotenv
+openai
+pydantic
+lancedb
+tiktoken
+pandas
+langchain-text-splitters
+tantivy
+pylance

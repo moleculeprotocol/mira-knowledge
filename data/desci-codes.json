@@ -1,0 +1,859 @@
+[
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/governance",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance",
+      "loadedTime": "2025-07-01T09:04:49.518Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance",
+      "title": "Governance | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Governance | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/xRYm05jE4jD5BtI963w8"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:04:46 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bcdf58be4bbb-BUF",
+        "cache-control": "s-maxage=84905, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fgovernance, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Governance | DeSci.Codes\nHere you can access all the available Governance Proposals:\n👨‍🔬Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs🧑‍💻Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo👨‍💼Proposal for Exclusive License/Sale of IP-NFT to [Corporate Name LLC/Inc]👩‍💼Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program\nPreviousAbout DeSci.CodesNextProposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs\nLast updated 1 year ago",
+    "markdown": "# Governance | DeSci.Codes\n\nHere you can access all the available Governance Proposals:\n\n[👨‍🔬Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts)[🧑‍💻Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-syndicating-ip-nft-and-co-governing-ip-nft-in-ip-holdco)[👨‍💼Proposal for Exclusive License/Sale of IP-NFT to \\[Corporate Name LLC/Inc\\]](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-to-corporate-name-llc-inc)[👩‍💼Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program)\n\n[PreviousAbout DeSci.Codes](https://desci-codes.gitbook.io/desci.codes/overview/about-desci.codes)[NextProposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts)\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-to-corporate-name-llc-inc",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-to-corporate-name-llc-inc",
+      "loadedTime": "2025-07-01T09:04:58.270Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-to-corporate-name-llc-inc",
+      "title": "Proposal for Exclusive License/Sale of IP-NFT to [Corporate Name LLC/Inc] | DeSci.Codes",
+      "description": "A DAO owns an IP-NFT that has not been tokenized into IPTs and wants to exit the IP-NFT via license or sale to an IP HoldCo.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Proposal for Exclusive License/Sale of IP-NFT to [Corporate Name LLC/Inc] | DeSci.Codes"
+        },
+        {
+          "property": "og:description",
+          "content": "A DAO owns an IP-NFT that has not been tokenized into IPTs and wants to exit the IP-NFT via license or sale to an IP HoldCo."
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/GpatDED0bOoHNYEYZozI"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:04:53 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bd0f8ac94bbb-BUF",
+        "cache-control": "s-maxage=86224, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fgovernance%2Fproposal-for-exclusive-license-sale-of-ip-nft-to-corporate-name-llc-inc, site:site_6UPSH, release:10.9.1271, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Proposal for Exclusive License/Sale of IP-NFT to [Corporate Name LLC/Inc]\nA DAO owns an IP-NFT that has not been tokenized into IPTs and wants to exit the IP-NFT via license or sale to an IP HoldCo.\nAbout\nThis template outlines a proposal for the exclusive license or sale of an IP-NFT to a specific entity (e.g., corporation). It covers the summary, background, deal proposal, and implementation steps for such a transaction.\nWhen to use it:\nIP Monetization: Use this template when your DAO wishes to monetize intellectual property (IP) represented by an IP-NFT through a licensing agreement or outright sale to a corporate entity.\nDecision Making: Use it to obtain approval from relevant stakeholders (such as DAO utility token holders) to proceed with the licensing/sale of the IP-NFT.\nHow to use it:\nDuplicate Template: click on template below and download the file.\nFill in Specific Details: Customize the template with specific information related to your IP-NFT, the corporate entity involved, details of the agreement, consideration (payment or equity), termination rights (if applicable), and additional terms related to IPT holders' voting power or share sales.\nLegal and Financial Review: Ensure that all terms and agreements comply with legal requirements and financial regulations. Consult counsel if you want legal advice related to use of the agreement.\nCommunity Approval: Present the proposal to relevant stakeholders (such as DAO utility token holders) for discussion and approval. Consider using voting mechanisms or delegating voting power to a representative as outlined in the template.\nExecution: Once approved, authorise the designated DAO core/deal team lead to execute the final agreement. Ensure that all necessary steps for transferring legal title and responsibilities are followed as outlined in the implementation section.\nTemplate \nProposal for Exclusive License/Sale of IP-NFT to [Corporate Name LLC/Inc]\nLast updated 1 year ago",
+    "markdown": "# Proposal for Exclusive License/Sale of IP-NFT to \\[Corporate Name LLC/Inc\\]\n\nA DAO owns an IP-NFT that has not been tokenized into IPTs and wants to exit the IP-NFT via license or sale to an IP HoldCo.\n\n### \n\n**About**\n\nThis template outlines a proposal for the exclusive license or sale of an IP-NFT to a specific entity (e.g., corporation). It covers the summary, background, deal proposal, and implementation steps for such a transaction.\n\n### \n\n**When to use it:**\n\n*   **IP Monetization:** Use this template when your DAO wishes to monetize intellectual property (IP) represented by an IP-NFT through a licensing agreement or outright sale to a corporate entity.\n    \n*   **Decision Making:** Use it to obtain approval from relevant stakeholders (such as DAO utility token holders) to proceed with the licensing/sale of the IP-NFT.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Fill in Specific Details:** Customize the template with specific information related to your IP-NFT, the corporate entity involved, details of the agreement, consideration (payment or equity), termination rights (if applicable), and additional terms related to IPT holders' voting power or share sales.\n    \n3.  **Legal and Financial Review:** Ensure that all terms and agreements comply with legal requirements and financial regulations. Consult counsel if you want legal advice related to use of the agreement.\n    \n4.  **Community Approval:** Present the proposal to relevant stakeholders (such as DAO utility token holders) for discussion and approval. Consider using voting mechanisms or delegating voting power to a representative as outlined in the template.\n    \n5.  **Execution:** Once approved, authorise the designated DAO core/deal team lead to execute the final agreement. Ensure that all necessary steps for transferring legal title and responsibilities are followed as outlined in the implementation section.\n    \n\n### \n\nTemplate\n\nProposal for Exclusive License/Sale of IP-NFT to \\[Corporate Name LLC/Inc\\]\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-syndicating-ip-nft-and-co-governing-ip-nft-in-ip-holdco",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-syndicating-ip-nft-and-co-governing-ip-nft-in-ip-holdco",
+      "loadedTime": "2025-07-01T09:04:58.825Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-syndicating-ip-nft-and-co-governing-ip-nft-in-ip-holdco",
+      "title": "Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo | DeSci.Codes",
+      "description": "When a DAO wants to syndicate a sponsored research agreement and co-govern the IP-NFT in an IP HoldCo",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo | DeSci.Codes"
+        },
+        {
+          "property": "og:description",
+          "content": "When a DAO wants to syndicate a sponsored research agreement and co-govern the IP-NFT in an IP HoldCo"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/XBsBTfK4M69oIywlTbRa"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:04:53 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bd0efa564bbb-BUF",
+        "cache-control": "s-maxage=29385, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fgovernance%2Fproposal-for-syndicating-ip-nft-and-co-governing-ip-nft-in-ip-holdco, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1269, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo\nWhen a DAO wants to syndicate a sponsored research agreement and co-govern the IP-NFT in an IP HoldCo\nAbout\nThis template outlines a proposal for syndicating a sponsored research agreement (SRA) with a researcher, co-governing the resulting IP-NFT in an IP HoldCo, and outlining the contributions and governance rights for relevant DAO utility token holders.\nWhen to use it:\nSyndication Opportunities: Use this template when your DAO has the opportunity to collaborate with a syndicate to fund a research project and co-govern resulting intellectual property rights.\nTokenization Plans: Use it when there are plans to tokenize intellectual property and to distribute them among stakeholders based on specific criteria.\nGovernance Structures: Use it to propose and formalize governance structures within a syndicate or IP HoldCo, especially when DAO utility token holders are involved in decision-making processes.\nHow to use it:\nDuplicate Template: click on template below and download the file.\nFill in variables: Fill in the template with specific details relevant to your situation. Include the name of the governing entity (DAO), the ticker symbol, details of the research project, syndicate members, contributions required, terms of the SRA, and governance rights.\nConsult Legal Counsel: Consult legal counsel if you are unsure about the legal implications of using the agreement or otherwise want related legal advice.\nCommunity Approval: Present the proposal to the DAO community for discussion and approval. This may involve voting mechanisms or delegating voting power to a representative, as outlined in the template.\nTemplate \nProposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo\nLast updated 1 year ago",
+    "markdown": "# Proposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo\n\nWhen a DAO wants to syndicate a sponsored research agreement and co-govern the IP-NFT in an IP HoldCo\n\n### \n\n**About**\n\nThis template outlines a proposal for syndicating a sponsored research agreement (SRA) with a researcher, co-governing the resulting IP-NFT in an IP HoldCo, and outlining the contributions and governance rights for relevant DAO utility token holders.\n\n### \n\n**When to use it:**\n\n*   **Syndication Opportunities:** Use this template when your DAO has the opportunity to collaborate with a syndicate to fund a research project and co-govern resulting intellectual property rights.\n    \n*   **Tokenization Plans:** Use it when there are plans to tokenize intellectual property and to distribute them among stakeholders based on specific criteria.\n    \n*   **Governance Structures:** Use it to propose and formalize governance structures within a syndicate or IP HoldCo, especially when DAO utility token holders are involved in decision-making processes.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Fill in variables:** Fill in the template with specific details relevant to your situation. Include the name of the governing entity (DAO), the ticker symbol, details of the research project, syndicate members, contributions required, terms of the SRA, and governance rights.\n    \n3.  **Consult Legal Counsel**: Consult legal counsel if you are unsure about the legal implications of using the agreement or otherwise want related legal advice.\n    \n4.  **Community Approval:** Present the proposal to the DAO community for discussion and approval. This may involve voting mechanisms or delegating voting power to a representative, as outlined in the template.\n    \n\n### \n\nTemplate\n\nProposal for Syndicating IP-NFT and Co-Governing IP-NFT in IP HoldCo\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts",
+      "loadedTime": "2025-07-01T09:04:58.601Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts",
+      "title": "Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs | DeSci.Codes",
+      "description": "When researcher wants to put a sponsored research agreement up for a vote among IP Seed holders and terminate the IP Seed program.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs | DeSci.Codes"
+        },
+        {
+          "property": "og:description",
+          "content": "When researcher wants to put a sponsored research agreement up for a vote among IP Seed holders and terminate the IP Seed program."
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/viyLLicpoGTOBGKZNSLC"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:04:46 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bcddc8084bbb-BUF",
+        "cache-control": "s-maxage=86232, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fgovernance%2Fproposal-to-enter-into-sra-mint-an-ip-nft-and-distribute-ipts, site:site_6UPSH, release:10.9.1271, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs\nWhen researcher wants to put a sponsored research agreement up for a vote among IP Seed holders and terminate the IP Seed program.\nAbout\nThis template outlines a proposal for entering into a sponsored research agreement (SRA), minting an IP-NFT (non-fungible token), and distributing IPTs (IP Tokens) to IP Seed holders. \nWhen to use it:\nIP Seed Governance: Use this template with IP Seed holders to effectively govern the decision to enter into an SRA, mint the SRA into an IP-NFT, and distribute IPTs to IP Seed holders that are tokenized from the IP-NFT. \nHow to use it:\nDuplicate Template: Click on template below and download the file.\nFill in Specific Details: Customize the template with specific information related to your IP Seed project, such as the name of the project, details of the SRA, sponsor information, funding details, and the number of IPTs to be distributed per IP Seed.\nConsult Legal Counsel: Consult legal counsel if you are unsure about the legal implications of using the agreement or otherwise want related legal advice. \nExecute the Proposal: Once the proposal is finalized, put it up for a vote among IP Seed holders and execute the proposal if passed. \nTemplate \nProposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs\nLast updated 6 months ago",
+    "markdown": "# Proposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs\n\nWhen researcher wants to put a sponsored research agreement up for a vote among IP Seed holders and terminate the IP Seed program.\n\n### \n\n**About**\n\nThis template outlines a proposal for entering into a sponsored research agreement (SRA), minting an IP-NFT (non-fungible token), and distributing IPTs (IP Tokens) to IP Seed holders.\n\n### \n\n**When to use it:**\n\n*   **IP Seed Governance:** Use this template with IP Seed holders to effectively govern the decision to enter into an SRA, mint the SRA into an IP-NFT, and distribute IPTs to IP Seed holders that are tokenized from the IP-NFT.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** Click on template below and download the file.\n    \n2.  **Fill in Specific Details:** Customize the template with specific information related to your IP Seed project, such as the name of the project, details of the SRA, sponsor information, funding details, and the number of IPTs to be distributed per IP Seed.\n    \n3.  **Consult Legal Counsel**: Consult legal counsel if you are unsure about the legal implications of using the agreement or otherwise want related legal advice.\n    \n4.  **Execute the Proposal:** Once the proposal is finalized, put it up for a vote among IP Seed holders and execute the proposal if passed.\n    \n\n### \n\nTemplate\n\nProposal to Enter into SRA, Mint an IP-NFT, and Distribute IPTs\n\nLast updated 6 months ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements",
+      "loadedTime": "2025-07-01T09:05:06.998Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements",
+      "title": "Model Agreements | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Model Agreements | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/a7Vb5XevTDzRSBh81gS5"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:03 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bd4e2ae14bbb-BUF",
+        "cache-control": "s-maxage=84887, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Model Agreements | DeSci.Codes\nHere you can access all the available Model Agreements:\n▪️SAFIP · Simple Agreement for Future Intellectual Property▫️SAFIPT · Simple Agreement for Future Intellectual Property Tokens▪️Model IPT Membership Agreement▪️Model IPT Royalty Agreement▪️IP-NFT Transfer and Assignment Agreement▪️NDA · General Non-Disclosure Agreement\nPreviousProposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT ProgramNextSAFIP · Simple Agreement for Future Intellectual Property\nLast updated 1 year ago",
+    "markdown": "# Model Agreements | DeSci.Codes\n\nHere you can access all the available Model Agreements:\n\n[▪️SAFIP · Simple Agreement for Future Intellectual Property](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safip-simple-agreement-for-future-intellectual-property)[▫️SAFIPT · Simple Agreement for Future Intellectual Property Tokens](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safipt-simple-agreement-for-future-intellectual-property-tokens)[▪️Model IPT Membership Agreement](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-membership-agreement)[▪️Model IPT Royalty Agreement](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-royalty-agreement)[▪️IP-NFT Transfer and Assignment Agreement](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/ip-nft-transfer-and-assignment-agreement)[▪️NDA · General Non-Disclosure Agreement](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/nda-general-non-disclosure-agreement)\n\n[PreviousProposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program](https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program)[NextSAFIP · Simple Agreement for Future Intellectual Property](https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safip-simple-agreement-for-future-intellectual-property)\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program",
+      "loadedTime": "2025-07-01T09:05:11.168Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/governance/proposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program",
+      "title": "Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program | DeSci.Codes",
+      "description": "An IP-NFT owner has tokenized the IP-NFT into IPTs and wants the IPT holders to vote to exit the IP-NFT via license or sale to an IP HoldCo and wind up the IPT program.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program | DeSci.Codes"
+        },
+        {
+          "property": "og:description",
+          "content": "An IP-NFT owner has tokenized the IP-NFT into IPTs and wants the IPT holders to vote to exit the IP-NFT via license or sale to an IP HoldCo and wind up the IPT program."
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/LfiYX4HzlpECxfrgoSGR"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:03 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bd4b399a4bbb-BUF",
+        "cache-control": "s-maxage=33404, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fgovernance%2Fproposal-for-exclusive-license-sale-of-ip-nft-and-winding-up-of-ipt-program, site:site_6UPSH, release:10.9.1271, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program\nAn IP-NFT owner has tokenized the IP-NFT into IPTs and wants the IPT holders to vote to exit the IP-NFT via license or sale to an IP HoldCo and wind up the IPT program.\nAbout\nThis template outlines a proposal for the exclusive license or sale of an IP-NFT and the winding up of an associated IPT program within a community. It covers the summary, background, deal proposal, and implementation steps for such a transaction.\nWhen to use it:\nEnd of IPT Program: Use this template when the IPT program has fulfilled its purpose and there is an opportunity to monetize the IP-NFT through an exclusive license or sale while winding up the program.\nDecision Making: Use it to obtain approval from relevant stakeholders (e.g., DAO utility token holders or IPT holders) to proceed with the licensing/sale and winding up of the program.\nHow to use it:\nDuplicate Template: Click on template below and download the file.\nFill in Specific Details: Customize the template with specific information related to your IP-NFT, licensee/assignee, details of the agreement, consideration (payment or equity), termination rights (if applicable), and distribution of proceeds among IPT holders (if relevant).\nLegal and Financial Review: Ensure that all terms and agreements comply with legal requirements and financial regulations. Consult counsel if you want legal advice related to use of the agreement.\nCommunity Approval: Present the proposal to relevant stakeholders (e.g., DAO utility token holders or IPT holders) for discussion and approval. Consider using voting mechanisms or delegating voting power to a representative as outlined in the template.\nExecution: Once approved, authorize the designated entity (e.g., IP-NFT HoldCo or DAO) to execute the final agreement and handle the transfer of the IP-NFT and distribution of proceeds as outlined in the implementation section.\nTemplate \nLast updated 1 year ago",
+    "markdown": "# Proposal for Exclusive License/Sale of IP-NFT & Winding Up of IPT Program\n\nAn IP-NFT owner has tokenized the IP-NFT into IPTs and wants the IPT holders to vote to exit the IP-NFT via license or sale to an IP HoldCo and wind up the IPT program.\n\n### \n\n**About**\n\nThis template outlines a proposal for the exclusive license or sale of an IP-NFT and the winding up of an associated IPT program within a community. It covers the summary, background, deal proposal, and implementation steps for such a transaction.\n\n### \n\n**When to use it:**\n\n*   **End of IPT Program:** Use this template when the IPT program has fulfilled its purpose and there is an opportunity to monetize the IP-NFT through an exclusive license or sale while winding up the program.\n    \n*   **Decision Making:** Use it to obtain approval from relevant stakeholders (e.g., DAO utility token holders or IPT holders) to proceed with the licensing/sale and winding up of the program.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** Click on template below and download the file.\n    \n2.  **Fill in Specific Details:** Customize the template with specific information related to your IP-NFT, licensee/assignee, details of the agreement, consideration (payment or equity), termination rights (if applicable), and distribution of proceeds among IPT holders (if relevant).\n    \n3.  **Legal and Financial Review:** Ensure that all terms and agreements comply with legal requirements and financial regulations. Consult counsel if you want legal advice related to use of the agreement.\n    \n4.  **Community Approval:** Present the proposal to relevant stakeholders (e.g., DAO utility token holders or IPT holders) for discussion and approval. Consider using voting mechanisms or delegating voting power to a representative as outlined in the template.\n    \n5.  **Execution:** Once approved, authorize the designated entity (e.g., IP-NFT HoldCo or DAO) to execute the final agreement and handle the transfer of the IP-NFT and distribution of proceeds as outlined in the implementation section.\n    \n\n### \n\nTemplate\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safip-simple-agreement-for-future-intellectual-property",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safip-simple-agreement-for-future-intellectual-property",
+      "loadedTime": "2025-07-01T09:05:12.360Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safip-simple-agreement-for-future-intellectual-property",
+      "title": "SAFIP · Simple Agreement for Future Intellectual Property | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "SAFIP · Simple Agreement for Future Intellectual Property | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/UPPcUz98S1C3U2jLkt9b"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:05 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bd4f7b6b4bbb-BUF",
+        "cache-control": "s-maxage=86400, stale-while-revalidate=518400",
+        "content-encoding": "br",
+        "etag": "W/\"3woqzalme13nht\"",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-nextjs-cache": "MISS",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "SAFIP · Simple Agreement for Future Intellectual Property\nAbout\nThis template outlines a Simple Agreement for Future Intellectual Property (SAFIP) between a funding party (referred to as the \"Sponsor\") and a receiving party (referred to as the \"Researcher\"). The template includes standard best-practice reporting terms and reference to a research plan that gets attached to the SAFIP in an appendix.\nWhen to use it:\nFunding Research Projects: When funding is provided for research or development projects with a focus on future intellectual property rights.\nCollaborative Projects: In collaborative efforts where parties need clear agreements on ownership, confidentiality, and publication rights.\nIntellectual Property Protection: When there's a need to protect intellectual property resulting from the collaboration or funded research.\nHow to use it:\nDuplicate Template: click on template below and download the file.\nFill in Variables: Replace the placeholders like [FUNDING PARTY], [RECEIVING PARTY], [START DATE], [END DATE], [AMOUNT], [MILESTONE 1, 2, etc.] with the specific details relevant to your agreement.\nScope of Work: Describe the project in detail under \"SCOPE OF WORK\" and attach a research program as \"Exhibit A\".\nConsideration: Define the payment schedule based on milestones and deliverables.\nIntellectual Property: Clarify ownership and rights regarding any intellectual property generated during the project.\nConfidentiality: Outline confidentiality obligations for both parties.\nTermination: Specify conditions for termination and survival clauses for certain sections post-termination.\nGoverning Law: Indicate the governing law and dispute resolution mechanisms.\nSignatures: Obtain signatures from authorized representatives of both parties.\nTemplate \nSAFIP\nLast updated 1 year ago",
+    "markdown": "# SAFIP · Simple Agreement for Future Intellectual Property\n\n### \n\n**About**\n\nThis template outlines a Simple Agreement for Future Intellectual Property (SAFIP) between a funding party (referred to as the \"Sponsor\") and a receiving party (referred to as the \"Researcher\"). The template includes standard best-practice reporting terms and reference to a research plan that gets attached to the SAFIP in an appendix.\n\n### \n\n**When to use it:**\n\n*   **Funding Research Projects**: When funding is provided for research or development projects with a focus on future intellectual property rights.\n    \n*   **Collaborative Projects**: In collaborative efforts where parties need clear agreements on ownership, confidentiality, and publication rights.\n    \n*   **Intellectual Property Protection**: When there's a need to protect intellectual property resulting from the collaboration or funded research.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Fill in Variables**: Replace the placeholders like \\[FUNDING PARTY\\], \\[RECEIVING PARTY\\], \\[START DATE\\], \\[END DATE\\], \\[AMOUNT\\], \\[MILESTONE 1, 2, etc.\\] with the specific details relevant to your agreement.\n    \n3.  **Scope of Work**: Describe the project in detail under \"SCOPE OF WORK\" and attach a research program as \"Exhibit A\".\n    \n4.  **Consideration**: Define the payment schedule based on milestones and deliverables.\n    \n5.  **Intellectual Property**: Clarify ownership and rights regarding any intellectual property generated during the project.\n    \n6.  **Confidentiality**: Outline confidentiality obligations for both parties.\n    \n7.  **Termination**: Specify conditions for termination and survival clauses for certain sections post-termination.\n    \n8.  **Governing Law**: Indicate the governing law and dispute resolution mechanisms.\n    \n9.  **Signatures**: Obtain signatures from authorized representatives of both parties.\n    \n\n### \n\nTemplate\n\nSAFIP\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-membership-agreement",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-membership-agreement",
+      "loadedTime": "2025-07-01T09:05:33.308Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-membership-agreement",
+      "title": "Model IPT Membership Agreement | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Model IPT Membership Agreement | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/auLO8lCskodvHuo0Osiu"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:23 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bdc9d854aab4-YYZ",
+        "cache-control": "s-maxage=86384, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fmodel-ipt-membership-agreement, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Model IPT Membership Agreement | DeSci.Codes\nAbout\nThis template is an agreement outlines the rights and responsibilities of individuals or entities (Token Holders) who possess a specific token (referred to as [IP-NFT symbol]-IPT Token). The agreement establishes terms related to the creation, governance, licensing, and ownership of Intellectual Property (IP) and Future Intellectual Property arising from participation in the agreement.\nWhen to use it\nTokenized IP Ecosystem: Use this agreement when creating or participating in a tokenized ecosystem where NFTs and IP are involved, such as developing unique digital assets or intellectual creations.\nMembership Governance: It's suitable for defining governance structures, voting rights, and responsibilities among token holders within the ecosystem.\nIP Ownership and Licensing: If you need to clarify ownership rights, access to IP data, and the process for licensing IP generated within the ecosystem\nHow to use it\nDuplicate Template: click on template below and download the file.\nCustomize for Your Ecosystem: Replace [IP-NFT symbol] with your specific token symbol or naming convention throughout the agreement to reflect your ecosystem accurately.\nDefine Terms: Understand and define terms such as Intellectual Property, Confidential Information, Governance, Duty of Care, etc., based on your ecosystem's context.\nIdentify Parties: Clearly identify the parties involved - Token Holders, Token Minters, and any other relevant entities.\nReview and Agreement: Ensure all parties review the agreement thoroughly, understand their rights and obligations, and agree to the terms explicitly by ticking the acceptance box provided.\nTemplate \n[IP-NFT Symbol] IPT Membership Agreement\nLast updated 1 year ago",
+    "markdown": "# Model IPT Membership Agreement | DeSci.Codes\n\n### \n\n**About**\n\nThis template is an agreement outlines the rights and responsibilities of individuals or entities (Token Holders) who possess a specific token (referred to as \\[IP-NFT symbol\\]-IPT Token). The agreement establishes terms related to the creation, governance, licensing, and ownership of Intellectual Property (IP) and Future Intellectual Property arising from participation in the agreement.\n\n### \n\n**When to use it**\n\n*   **Tokenized IP Ecosystem:** Use this agreement when creating or participating in a tokenized ecosystem where NFTs and IP are involved, such as developing unique digital assets or intellectual creations.\n    \n*   **Membership Governance:** It's suitable for defining governance structures, voting rights, and responsibilities among token holders within the ecosystem.\n    \n*   **IP Ownership and Licensing:** If you need to clarify ownership rights, access to IP data, and the process for licensing IP generated within the ecosystem\n    \n\n### \n\n**How to use it**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Customize for Your Ecosystem:** Replace \\[IP-NFT symbol\\] with your specific token symbol or naming convention throughout the agreement to reflect your ecosystem accurately.\n    \n3.  **Define Terms:** Understand and define terms such as Intellectual Property, Confidential Information, Governance, Duty of Care, etc., based on your ecosystem's context.\n    \n4.  **Identify Parties:** Clearly identify the parties involved - Token Holders, Token Minters, and any other relevant entities.\n    \n5.  **Review and Agreement:** Ensure all parties review the agreement thoroughly, understand their rights and obligations, and agree to the terms explicitly by ticking the acceptance box provided.\n    \n\n### \n\nTemplate\n\n\\[IP-NFT Symbol\\] IPT Membership Agreement\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safipt-simple-agreement-for-future-intellectual-property-tokens",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safipt-simple-agreement-for-future-intellectual-property-tokens",
+      "loadedTime": "2025-07-01T09:05:36.386Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/safipt-simple-agreement-for-future-intellectual-property-tokens",
+      "title": "SAFIPT · Simple Agreement for Future Intellectual Property Tokens | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "SAFIPT · Simple Agreement for Future Intellectual Property Tokens | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/z2kI9laKOq8bLMvChaUd"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:23 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bdca1872aab4-YYZ",
+        "cache-control": "s-maxage=59283, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fsafipt-simple-agreement-for-future-intellectual-property-tokens, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, release:10.9.1268, site:site_6UPSH",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "SAFIPT · Simple Agreement for Future Intellectual Property Tokens\nAbout\nThis template is \nWhen to use it:\nUse Case: Description\nHow to use it:\nDuplicate Template: click on template below and download the file.\nTemplate \nSAFIPT",
+    "markdown": "# SAFIPT · Simple Agreement for Future Intellectual Property Tokens\n\n### \n\n**About**\n\nThis template is\n\n### \n\n**When to use it:**\n\n*   **Use Case:** Description\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n\n### \n\nTemplate\n\nSAFIPT",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-royalty-agreement",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-royalty-agreement",
+      "loadedTime": "2025-07-01T09:05:40.256Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/model-ipt-royalty-agreement",
+      "title": "Model IPT Royalty Agreement | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Model IPT Royalty Agreement | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/7wtfh7WC21STsCdCVeKv"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:26 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bddbbe6caab4-YYZ",
+        "cache-control": "s-maxage=86382, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fmodel-ipt-royalty-agreement, site:site_6UPSH, release:10.9.1271, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Model IPT Royalty Agreement | DeSci.Codes\nAbout\nThis template outlines an agreement for holders of a specific IP-NFT, establishing their rights, responsibilities, and the governance structure related to the IP-NFT and any associated royalties.\nWhen to use it\nIP-NFT Royalty Agreement: When issuing IP-NFTs and establishing royalty rights and governance structures for token holders.\nToken Holder Responsibilities: When defining the responsibilities and rights of IP-NFT token holders, including governance participation, confidentiality obligations, and royalty entitlements.\nRisk Acknowledgment: When token holders need to acknowledge and accept risks associated with participation in the IP-NFT project, subject to applicable laws.\nHow to use it\nDuplicate Template: click on template below and download the file.\nReplace Variables: Replace the placeholder variables like [[IP-NFT symbol]], [[IP-NFT symbol]-IPT Token Holder]], [[IP-NFT symbol]-IPT Token Minter]], etc., with actual names, addresses, dates, percentages, and relevant details as needed.\nFill in Details: Add specific details such as the effective date, percentage of royalties, taxation responsibilities, and any specific governance rules that apply to your situation.\nReview and Customize: Carefully review the entire template to ensure it aligns with your specific IP-NFT project, governance model, and legal requirements. Modify any sections to accurately reflect your agreement and situation.\nTemplate \n[IP-NFT Symbol] IPT Royalty Agreement\nLast updated 1 year ago",
+    "markdown": "# Model IPT Royalty Agreement | DeSci.Codes\n\n### \n\n**About**\n\nThis template outlines an agreement for holders of a specific IP-NFT, establishing their rights, responsibilities, and the governance structure related to the IP-NFT and any associated royalties.\n\n### \n\n**When to use it**\n\n*   **IP-NFT Royalty Agreement:** When issuing IP-NFTs and establishing royalty rights and governance structures for token holders.\n    \n*   **Token Holder Responsibilities:** When defining the responsibilities and rights of IP-NFT token holders, including governance participation, confidentiality obligations, and royalty entitlements.\n    \n*   **Risk Acknowledgment:** When token holders need to acknowledge and accept risks associated with participation in the IP-NFT project, subject to applicable laws.\n    \n\n### \n\n**How to use it**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Replace Variables:** Replace the placeholder variables like \\[\\[IP-NFT symbol\\]\\], \\[\\[IP-NFT symbol\\]-IPT Token Holder\\]\\], \\[\\[IP-NFT symbol\\]-IPT Token Minter\\]\\], etc., with actual names, addresses, dates, percentages, and relevant details as needed.\n    \n3.  **Fill in Details:** Add specific details such as the effective date, percentage of royalties, taxation responsibilities, and any specific governance rules that apply to your situation.\n    \n4.  **Review and Customize:** Carefully review the entire template to ensure it aligns with your specific IP-NFT project, governance model, and legal requirements. Modify any sections to accurately reflect your agreement and situation.\n    \n\n### \n\nTemplate\n\n\\[IP-NFT Symbol\\] IPT Royalty Agreement\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/ip-nft-transfer-and-assignment-agreement",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/ip-nft-transfer-and-assignment-agreement",
+      "loadedTime": "2025-07-01T09:05:51.101Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/ip-nft-transfer-and-assignment-agreement",
+      "title": "IP-NFT Transfer and Assignment Agreement | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "IP-NFT Transfer and Assignment Agreement | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/em4COca7qxoTxaPWEXVt"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:45 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584be50e8e6aab4-YYZ",
+        "cache-control": "s-maxage=86363, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fip-nft-transfer-and-assignment-agreement, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "IP-NFT Transfer and Assignment Agreement\nThis template is an Addendum to an Assignment Agreement for transferring intellectual property (IP) rights and data related to research using non-fungible tokens (NFTs) on the Ethereum blockchain. \nWhen to use it:\nTransfer of IP Rights: When you want to transfer intellectual property rights and data from one entity (Assignor) to another entity (Assignee) using blockchain technology and NFTs.\nProof of Ownership: When you need a legally binding agreement that ties the ownership of IP rights to the ownership of an NFT token on the Ethereum blockchain.\nEnforcement and Governance: When you want to establish the governing law, jurisdiction, and dispute resolution mechanism for any potential conflicts related to the transferred IP rights.\nHow to use it:\nDuplicate Template: click on template below and download the file.\nReplace Variables: Replace the placeholder variables like [[ENTITY NAME]], [[ASSIGNEE NAME]], [[USER SIGNATORY NAME]], etc., with actual names, addresses, dates, and Ethereum wallet addresses as applicable.\nFill in Details: Add specific details such as the date of the sponsored research agreement, the subject of the research, the IP-NFT minting fee, the current date, the IP-NFT ID, and the IP-NFT smart contract address.\nReview and Customize: Review the entire template to ensure it aligns with your specific situation and legal requirements. Modify any sections to reflect your agreement accurately.\nTemplate \nLast updated 1 year ago",
+    "markdown": "# IP-NFT Transfer and Assignment Agreement\n\nThis template is an Addendum to an Assignment Agreement for transferring intellectual property (IP) rights and data related to research using non-fungible tokens (NFTs) on the Ethereum blockchain.\n\n### \n\n**When to use it:**\n\n*   **Transfer of IP Rights:** When you want to transfer intellectual property rights and data from one entity (Assignor) to another entity (Assignee) using blockchain technology and NFTs.\n    \n*   **Proof of Ownership:** When you need a legally binding agreement that ties the ownership of IP rights to the ownership of an NFT token on the Ethereum blockchain.\n    \n*   **Enforcement and Governance:** When you want to establish the governing law, jurisdiction, and dispute resolution mechanism for any potential conflicts related to the transferred IP rights.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Replace Variables:** Replace the placeholder variables like \\[\\[ENTITY NAME\\]\\], \\[\\[ASSIGNEE NAME\\]\\], \\[\\[USER SIGNATORY NAME\\]\\], etc., with actual names, addresses, dates, and Ethereum wallet addresses as applicable.\n    \n3.  **Fill in Details:** Add specific details such as the date of the sponsored research agreement, the subject of the research, the IP-NFT minting fee, the current date, the IP-NFT ID, and the IP-NFT smart contract address.\n    \n4.  **Review and Customize:** Review the entire template to ensure it aligns with your specific situation and legal requirements. Modify any sections to reflect your agreement accurately.\n    \n\n### \n\nTemplate\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/proof-of-idea-to-ipnft-assignment-agreement",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/proof-of-idea-to-ipnft-assignment-agreement",
+      "loadedTime": "2025-07-01T09:05:53.395Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/proof-of-idea-to-ipnft-assignment-agreement",
+      "title": "Proof of idea to IPNFT Assignment Agreement | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Proof of idea to IPNFT Assignment Agreement | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/tuUEdUvSuLDTB7i614XU"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:05:49 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584be6a8974aab4-YYZ",
+        "cache-control": "s-maxage=86359, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fproof-of-idea-to-ipnft-assignment-agreement, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Proof of idea to IPNFT Assignment Agreement\nThis agreement is ideal for individuals or entities looking to protect their Idea by anchoring it as an IPNFT on a blockchain. It ensures that the intellectual property connected to the Idea is securely and confidentially registered, while reserving the owner’s rights and enabling transferability through the IPNFT. \nWhen to use it:\nProof of Ownership: When you need a legally binding agreement that ties the ownership of IP rights to the ownership of an NFT token on the Ethereum blockchain.\nEnforcement and Governance: When you want to establish the governing law, jurisdiction, and dispute resolution mechanism for any potential conflicts related to the transferred IP rights.\nHow to use it:\nDuplicate the Template: Copy and download the template below.\nCustomize with Variables: Replace placeholders with specific information:\n[[BLOCKCHAIN]]: Specify the blockchain where the IPNFT will be registered.\n[[CHAIN ID]]: Include the corresponding chain ID.\n[[IPNFT ID]]: Provide the Merkle root hash representing the digital content.\n[[CONNECTED WALLET ADDRESS]]: Identify the wallet address of the Idea owner.\nConsult Legal Counsel: Seek legal advice to confirm that this agreement aligns with your jurisdiction's intellectual property laws and your specific requirements.\nExecute the Agreement: Review, sign and ensure the agreement its included during registration.\nTemplate \nLink: https://docs.google.com/document/d/1Ff8BJFvEQWDzdefAat-5vvIZ28Z6BUiUdHHKvw8zDCw/edit?tab=t.0\nPreview: \nLast updated 6 months ago",
+    "markdown": "# Proof of idea to IPNFT Assignment Agreement\n\nThis agreement is ideal for individuals or entities looking to protect their Idea by anchoring it as an IPNFT on a blockchain. It ensures that the intellectual property connected to the Idea is securely and confidentially registered, while reserving the owner’s rights and enabling transferability through the IPNFT.\n\n### \n\n**When to use it:**\n\n*   **Proof of Ownership:** When you need a legally binding agreement that ties the ownership of IP rights to the ownership of an NFT token on the Ethereum blockchain.\n    \n*   **Enforcement and Governance:** When you want to establish the governing law, jurisdiction, and dispute resolution mechanism for any potential conflicts related to the transferred IP rights.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate the Template**: Copy and download the template below.\n    \n2.  **Customize with Variables**: Replace placeholders with specific information:\n    \n    *   **\\[\\[BLOCKCHAIN\\]\\]**: Specify the blockchain where the IPNFT will be registered.\n        \n    *   **\\[\\[CHAIN ID\\]\\]**: Include the corresponding chain ID.\n        \n    *   **\\[\\[IPNFT ID\\]\\]**: Provide the Merkle root hash representing the digital content.\n        \n    *   **\\[\\[CONNECTED WALLET ADDRESS\\]\\]**: Identify the wallet address of the Idea owner.\n        \n    \n3.  **Consult Legal Counsel**: Seek legal advice to confirm that this agreement aligns with your jurisdiction's intellectual property laws and your specific requirements.\n    \n4.  **Execute the Agreement**: Review, sign and ensure the agreement its included during registration.\n    \n\n### \n\nTemplate\n\nLink: [https://docs.google.com/document/d/1Ff8BJFvEQWDzdefAat-5vvIZ28Z6BUiUdHHKvw8zDCw/edit?tab=t.0](https://docs.google.com/document/d/1Ff8BJFvEQWDzdefAat-5vvIZ28Z6BUiUdHHKvw8zDCw/edit?tab=t.0)\n\nPreview:\n\nLast updated 6 months ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/nda-general-non-disclosure-agreement",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/nda-general-non-disclosure-agreement",
+      "loadedTime": "2025-07-01T09:06:08.813Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/templates/model-agreements/nda-general-non-disclosure-agreement",
+      "title": "NDA · General Non-Disclosure Agreement | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "NDA · General Non-Disclosure Agreement | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/S86TTtkuPPa4v6zKFfbU"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:06:03 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bec3293eaab4-YYZ",
+        "cache-control": "s-maxage=86345, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/templates%2Fmodel-agreements%2Fnda-general-non-disclosure-agreement, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "NDA · General Non-Disclosure Agreement\nThis template is a Mutual Nondisclosure Agreement (NDA), which is a legal contract between two parties to protect confidential information shared between them. \nWhen to use it:\nBusiness Discussions: When you need to discuss sensitive information with another party during business negotiations, partnerships, or collaborations.\nIntellectual Property Protection: To safeguard your trade secrets, proprietary information, or other confidential data from unauthorized disclosure or use by the receiving party.\nLegal Protection: To establish legal recourse in case of a breach of confidentiality by either party.\nHow to use it:\nDuplicate Template: click on template below and download the file.\nFill in the Parties: Replace [Company Name] with the name of your company and [Counterparty Name] with the name of the other party.\nFill in Details: Add signatures, names, titles, dates, and addresses as required.\nReview and Customize: Read through the clauses carefully to ensure they fit your needs. Modify any sections to reflect the specifics of your agreement if necessary.\nTemplate \nLast updated 1 year ago",
+    "markdown": "# NDA · General Non-Disclosure Agreement\n\nThis template is a Mutual Nondisclosure Agreement (NDA), which is a legal contract between two parties to protect confidential information shared between them.\n\n### \n\n**When to use it:**\n\n*   **Business Discussions:** When you need to discuss sensitive information with another party during business negotiations, partnerships, or collaborations.\n    \n*   **Intellectual Property Protection:** To safeguard your trade secrets, proprietary information, or other confidential data from unauthorized disclosure or use by the receiving party.\n    \n*   **Legal Protection:** To establish legal recourse in case of a breach of confidentiality by either party.\n    \n\n### \n\n**How to use it:**\n\n1.  **Duplicate Template:** click on template below and download the file.\n    \n2.  **Fill in the Parties:** Replace `[Company Name]` with the name of your company and `[Counterparty Name]` with the name of the other party.\n    \n3.  **Fill in Details:** Add signatures, names, titles, dates, and addresses as required.\n    \n4.  **Review and Customize:** Read through the clauses carefully to ensure they fit your needs. Modify any sections to reflect the specifics of your agreement if necessary.\n    \n\n### \n\nTemplate\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/guides/how-to-form-an-ip-holdco",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/guides/how-to-form-an-ip-holdco",
+      "loadedTime": "2025-07-01T09:06:11.999Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/guides/how-to-form-an-ip-holdco",
+      "title": "How to Form an IP HoldCo | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "How to Form an IP HoldCo | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/3ww7th7aj4G1lers1F71"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:06:06 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bed30eb5aab4-YYZ",
+        "cache-control": "s-maxage=84826, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/guides%2Fhow-to-form-an-ip-holdco, site:site_6UPSH, release:10.9.1271, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "How to Form an IP HoldCo\nAbout\nThe \"How to Form an IP HoldCo\" guide provides detailed steps on creating an IP Holding Company (HoldCo) to manage intellectual property (IP) rights, including IP-NFTs. It explains the differences between forming a Limited Liability Company (LLC) and a Stock Corporation (e.g., CCorp), outlines the steps for starting each type of entity, discusses the roles and responsibilities of directors in the HoldCo, and explains how the HoldCo can take ownership of IP-NFTs.\nLast updated 1 year ago",
+    "markdown": "# How to Form an IP HoldCo\n\n### \n\nAbout\n\nThe \"How to Form an IP HoldCo\" guide provides detailed steps on creating an IP Holding Company (HoldCo) to manage intellectual property (IP) rights, including IP-NFTs. It explains the differences between forming a Limited Liability Company (LLC) and a Stock Corporation (e.g., CCorp), outlines the steps for starting each type of entity, discusses the roles and responsibilities of directors in the HoldCo, and explains how the HoldCo can take ownership of IP-NFTs.\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  },
+  {
+    "url": "https://desci-codes.gitbook.io/desci.codes/guides/sales-of-royal-ipts-ipts-as-securities-asset-tokens",
+    "crawl": {
+      "loadedUrl": "https://desci-codes.gitbook.io/desci.codes/guides/sales-of-royal-ipts-ipts-as-securities-asset-tokens",
+      "loadedTime": "2025-07-01T09:06:13.388Z",
+      "referrerUrl": "https://desci-codes.gitbook.io/desci.codes",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://desci-codes.gitbook.io/desci.codes/guides/sales-of-royal-ipts-ipts-as-securities-asset-tokens",
+      "title": "Sales of Royal IPTs: IPTs as Securities / Asset Tokens | DeSci.Codes",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Sales of Royal IPTs: IPTs as Securities / Asset Tokens | DeSci.Codes"
+        },
+        {
+          "property": "og:image",
+          "content": "https://desci-codes.gitbook.io/desci.codes/~gitbook/ogimage/50QizOfLh0h3Zfm00GUy"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Tue, 01 Jul 2025 09:06:08 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "9584bee11b9faab4-YYZ",
+        "cache-control": "s-maxage=84823, stale-while-revalidate=2592000",
+        "content-encoding": "br",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "content-security-policy": "default-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src 'self' 'unsafe-inline' *; img-src * 'self' blob: data:; connect-src *; font-src *; frame-src *; object-src 'none'; base-uri 'self' https://static-2c.gitbook.com; form-action 'self' https://static-2c.gitbook.com *; frame-ancestors https: ;",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "x-content-type-options": "nosniff",
+        "x-gitbook-route-site": "desci-codes.gitbook.io/desci.codes/",
+        "x-gitbook-route-type": "static",
+        "x-gitbook-target": "2c",
+        "x-next-cache-tags": "_N_T_/layout, _N_T_/sites/layout, _N_T_/sites/static/layout, _N_T_/sites/static/[mode]/layout, _N_T_/sites/static/[mode]/[siteURL]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/layout, _N_T_/sites/static/[mode]/[siteURL]/[siteData]/[pagePath]/page, _N_T_/sites/static/url-host/desci-codes.gitbook.io%2Fdesci.codes%2F/(apiToken%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjb250ZW50XzQyN2JjYWI4ZGUwNzA3MTM2YTI5YjZiZjk1OGFkZmVlNzU3ZDdhZjYiLCJ0YXJnZXQiOiJjb250ZW50Iiwia2luZCI6InNpdGUiLCJvcmdhbml6YXRpb24iOiJCZzlNMk1USTFXY0RUcWd5ZlVmUiIsInNwYWNlcyI6WyJZNGpMa3dzZ1hHOEpaNVFXcU1KNSJdLCJzaXRlIjoic2l0ZV82VVBTSCIsInNpdGVTcGFjZSI6InNpdGVzcF9DMmxXZyIsInNwYWNlIjoiWTRqTGt3c2dYRzhKWjVRV3FNSjUiLCJyYXRlTGltaXRNdWx0aXBsaWVyIjoxMDAwMDAwLCJpYXQiOjE3NTA4OTYwMDAsImV4cCI6MTc1MTUwMTEwMH0.UC2uS5JkE38DsxBCOeQ5pf4GpoNHl3eHCnuFisOZlSc%2CbasePath%3A%2Fdesci.codes%2F%2CimagesContextId%3Adesci-codes.gitbook.io%2Corganization%3ABg9M2MTI1WcDTqgyfUfR%2Csite%3Asite_6UPSH%2CsiteBasePath%3A%2Fdesci.codes%2F%2CsiteSpace%3Asitesp_C2lWg%2Cspace%3AY4jLkwsgXG8JZ5QWqMJ5)/guides%2Fsales-of-royal-ipts-ipts-as-securities-asset-tokens, space:Y4jLkwsgXG8JZ5QWqMJ5, release:10.9.1271, site:site_6UPSH, release:10.9.1268",
+        "x-nextjs-stale-time": "300",
+        "x-opennext-cache": "HIT",
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Sales of Royal IPTs: IPTs as Securities / Asset Tokens\nAbout\nThis document outlines the structure and legal considerations for creating and selling Royal IPTs, which are ERC20 tokens representing intellectual property (IP) rights and royalty rights. It covers the legal model, ownership, sale methods with or without an IP HoldCo, relevant securities laws (including private sales to accredited investors), whitepaper requirements, and region-specific rules for compliance.\nLast updated 1 year ago",
+    "markdown": "# Sales of Royal IPTs: IPTs as Securities / Asset Tokens\n\n### \n\nAbout\n\nThis document outlines the structure and legal considerations for creating and selling Royal IPTs, which are ERC20 tokens representing intellectual property (IP) rights and royalty rights. It covers the legal model, ownership, sale methods with or without an IP HoldCo, relevant securities laws (including private sales to accredited investors), whitepaper requirements, and region-specific rules for compliance.\n\nLast updated 1 year ago",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  }
+]
