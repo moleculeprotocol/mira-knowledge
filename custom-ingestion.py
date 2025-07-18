@@ -165,7 +165,7 @@ processed_chunks = [
 
 table.add(processed_chunks)
 
-table.create_fts_index("text", replace=True)
+table.create_fts_index("text", use_tantivy=False, with_position=True, replace=True)
 
 # Wait for indexes to be ready
 # wait_for_index(table, "text_idx")
