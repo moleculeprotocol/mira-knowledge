@@ -26,13 +26,36 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
 
+    - name: Cache Playwright browsers
+      uses: actions/cache@v4
+      id: playwright-cache
+      with:
+        path: |
+          ~/.cache/ms-playwright
+          ~/.cache/chromium
+          ~/.local/share/crawl4ai
+        key: ${{ runner.os }}-browsers-${{ hashFiles('requirements.txt') }}-v1
+        restore-keys: |
+          ${{ runner.os }}-browsers-${{ hashFiles('requirements.txt') }}-
+          ${{ runner.os }}-browsers-
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
     - name: Crawl4ai post install
-      run: crawl4ai-setup
+      run: |
+        if [ "${{ steps.playwright-cache.outputs.cache-hit }}" != "true" ]; then
+          echo "Cache miss - Installing browsers and dependencies"
+          crawl4ai-setup
+        else
+          echo "Cache hit - Browsers already cached, installing only system dependencies"
+          # Run crawl4ai-setup with minimal installation if possible
+          # If crawl4ai-setup doesn't support conditional installation, we still run it
+          # but it should be faster as browsers are already cached
+          crawl4ai-setup
+        fi
 
     - name: Verify crawl4ai
       run: crawl4ai-doctor
