@@ -40,9 +40,30 @@ jobs:
     - name: Run blog crawler
       run: python crawl_blog.py
 
-    - name: Upload blog data artifact
-      uses: actions/upload-artifact@v4
+    - name: Configure Git
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+    - name: Check for changes and commit
+      run: |
+        # Check if the file has changed
+        if git diff --quiet data/molecule_blog.json; then
+          echo "No changes detected in data/molecule_blog.json"
+          exit 0
+        fi
+
+        # Get current date and time
+        CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+        # Add and commit the file
+        git add data/molecule_blog.json
+        git commit -m "New crawl @ $CURRENT_DATE [skip ci]"
+
+        echo "Changes committed successfully"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        name: molecule-blog-data
-        path: data/molecule_blog.json
-        retention-days: 90
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref_name }}
