@@ -31,6 +31,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Crawl4ai post install
+      run: crawl4ai-setup
+
+    - name: Verify crawl4ai
+      run: crawl4ai-doctor
+
     - name: Run blog crawler
       run: python crawl_blog.py
 
