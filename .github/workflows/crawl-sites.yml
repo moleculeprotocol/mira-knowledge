@@ -1,4 +1,4 @@
-name: Crawl Blog
+name: Crawl Sites
 
 on:
   push:
@@ -40,6 +40,9 @@ jobs:
     - name: Run blog crawler
       run: python crawl_blog.py
 
+    - name: Run docs crawler
+      run: python crawl_docs.py
+
     - name: Configure Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -47,19 +50,19 @@ jobs:
 
     - name: Check for changes and commit
       run: |
-        # Check if file exists and has changes, or if it's a new file
-        git add data/molecule_blog.json
+        # Check if files exist and have changes, or if they're new files
+        git add data/molecule_blog.json data/molecule_docs.json
 
         # Check if there are any changes staged (this handles both modified and new files)
         if git diff --cached --quiet; then
-          echo "No changes detected in data/molecule_blog.json"
+          echo "No changes detected in crawled data files"
           exit 0
         fi
 
         # Get current date and time
         CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
 
-        # Commit the file
+        # Commit the files
         git commit -m "New crawl @ $CURRENT_DATE [skip ci]"
 
         echo "Changes committed successfully"
