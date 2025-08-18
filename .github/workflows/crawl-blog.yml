@@ -47,8 +47,11 @@ jobs:
 
     - name: Check for changes and commit
       run: |
-        # Check if the file has changed
-        if git diff --quiet data/molecule_blog.json; then
+        # Check if file exists and has changes, or if it's a new file
+        git add data/molecule_blog.json
+
+        # Check if there are any changes staged (this handles both modified and new files)
+        if git diff --cached --quiet; then
           echo "No changes detected in data/molecule_blog.json"
           exit 0
         fi
@@ -56,8 +59,7 @@ jobs:
         # Get current date and time
         CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
 
-        # Add and commit the file
-        git add data/molecule_blog.json
+        # Commit the file
         git commit -m "New crawl @ $CURRENT_DATE [skip ci]"
 
         echo "Changes committed successfully"
