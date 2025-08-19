@@ -1,8 +1,8 @@
 name: Crawl Sites
 
 on:
-  push:
-    branches: [ dev ]
+  schedule:
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
