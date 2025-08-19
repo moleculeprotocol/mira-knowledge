@@ -49,10 +49,10 @@ files = [
         "path": "data/molecule_blog.json",
         "source": "Molecule Blog",
     },
-    # {
-    #     "path": "data/desci-codes.json",
-    #     "source": "DeSci.Codes",
-    # },
+    {
+        "path": "data/desci_codes.json",
+        "source": "DeSci.Codes",
+    },
 ]
 
 parsed_data = []
