@@ -66,6 +66,9 @@ jobs:
     - name: Run docs crawler
       run: python crawl_docs.py
 
+    - name: Run desci codes crawler
+      run: python crawl_desci_codes.py
+
     - name: Configure Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -74,7 +77,7 @@ jobs:
     - name: Check for changes and commit
       run: |
         # Check if files exist and have changes, or if they're new files
-        git add data/molecule_blog.json data/molecule_docs.json
+        git add data/molecule_blog.json data/molecule_docs.json data/desci_codes.json
 
         # Check if there are any changes staged (this handles both modified and new files)
         if git diff --cached --quiet; then
