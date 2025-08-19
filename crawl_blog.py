@@ -113,6 +113,9 @@ async def main():
             }
             pages_data.append(page_data)
 
+        # Sort pages by title before saving
+        pages_data.sort(key=lambda x: x.get("title", "").lower())
+
         # Save to JSON file
         with open("data/molecule_blog.json", "w", encoding="utf-8") as f:
             json.dump(pages_data, f, indent=2, ensure_ascii=False)
