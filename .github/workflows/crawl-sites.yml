@@ -74,6 +74,9 @@ jobs:
     - name: Run desci codes crawler
       run: python crawl_desci_codes.py
 
+    - name: Create database and embeddings
+      run: python ingest.py
+
     - name: Configure Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
