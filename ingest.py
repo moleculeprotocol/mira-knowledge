@@ -1,6 +1,7 @@
 import json
 import os
 import time
+from datetime import datetime
 
 import lancedb
 import pandas as pd
@@ -133,6 +134,12 @@ class ChunkMetadata(LanceModel):
     url: str | None
 
 
+# Define the config table schema
+class Config(LanceModel):
+    key: str
+    value: str
+
+
 # Define the main Schema
 class Chunks(LanceModel):
     text: str = func.SourceField()
@@ -142,6 +149,33 @@ class Chunks(LanceModel):
 
 table = db.create_table("molrag", schema=Chunks, mode="overwrite")
 
+# --------------------------------------------------------------
+# Create and populate config table
+# --------------------------------------------------------------
+
+# Check if config table exists, if not create it
+try:
+    config_table = db.open_table("config")
+except Exception:
+    config_table = db.create_table("config", schema=Config)
+
+# Upsert knowledge_version entry
+config_data = [
+    {"key": "knowledge_version", "value": datetime.now().strftime("%Y-%m-%d")},
+]
+
+# First, try to delete existing entry with the same key (if any)
+try:
+    config_table.delete("key = 'knowledge_version'")
+except Exception:
+    pass  # Key might not exist yet
+
+# Add the new entry
+config_table.add(config_data)
+
+print(
+    f"✅ Config table created and knowledge_version set to '{datetime.now().strftime('%Y-%m-%d')}'"
+)
 
 # --------------------------------------------------------------
 # Prepare the chunks for the table
@@ -196,3 +230,17 @@ print("--- start table snippet ---")
 print(table.to_pandas())
 print("--- end table snippet ---")
 print("DB rows: ", table.count_rows())
+
+# --------------------------------------------------------------
+# Verify config table entry
+# --------------------------------------------------------------
+
+# Query the config table to get the knowledge_version value
+knowledge_version_result = (
+    config_table.search().where("key = 'knowledge_version'").to_pandas()
+)
+if not knowledge_version_result.empty:
+    knowledge_version_value = knowledge_version_result.iloc[0]["value"]
+    print(f"📋 Retrieved knowledge_version from DB: '{knowledge_version_value}'")
+else:
+    print("⚠️ No knowledge_version found in config table")
