@@ -1,4 +1,5 @@
 import json
+import os
 import time
 
 import lancedb
@@ -101,7 +102,15 @@ print(f"Number of chunks: {len(chunks)}")
 # --------------------------------------------------------------
 
 # Create a LanceDB database
-db = lancedb.connect("db/lancedb")
+db = lancedb.connect(
+    "s3://mol-mira-v0",
+    storage_options={
+        "aws_access_key_id": os.getenv("DO_SPACES_ACCESS_KEY_ID"),
+        "aws_secret_access_key": os.getenv("DO_SPACES_SECRET_ACCESS_KEY"),
+        "aws_endpoint": "https://fra1.digitaloceanspaces.com",
+        "aws_region": "fra1",
+    },
+)
 
 
 # Get the OpenAI embedding function
@@ -183,5 +192,7 @@ table.create_index(metric="cosine")
 # Load the table
 # --------------------------------------------------------------
 
-table.to_pandas()
-table.count_rows()
+print("--- start table snippet ---")
+print(table.to_pandas())
+print("--- end table snippet ---")
+print("DB rows: ", table.count_rows())
