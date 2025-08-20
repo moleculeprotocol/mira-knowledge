@@ -212,7 +212,7 @@ processed_chunks = [
 
 table.add(processed_chunks)
 
-table.create_fts_index("text", replace=True)
+table.create_fts_index("text", replace=True, use_tantivy=False)
 
 # Wait for indexes to be ready
 # wait_for_index(table, "text_idx")
@@ -244,3 +244,12 @@ if not knowledge_version_result.empty:
     print(f"📋 Retrieved knowledge_version from DB: '{knowledge_version_value}'")
 else:
     print("⚠️ No knowledge_version found in config table")
+
+# table = db.open_table("molrag")
+# results = table.search(
+#     "ipnft",
+#     query_type="hybrid",
+#     vector_column_name="vector",
+#     fts_columns="text",
+# )
+# print(results.to_pandas())
