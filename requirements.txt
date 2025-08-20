@@ -1,6 +1,5 @@
 ipykernel
 crawl4ai
-lancedb
+lancedb==0.24.3
 pandas
 langchain-text-splitters
-tantivy
