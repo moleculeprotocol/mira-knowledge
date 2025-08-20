@@ -9,6 +9,11 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
 
+    env:
+      DO_SPACES_ACCESS_KEY_ID: ${{ secrets.DO_SPACES_ACCESS_KEY_ID }}
+      DO_SPACES_SECRET_ACCESS_KEY: ${{ secrets.DO_SPACES_SECRET_ACCESS_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
