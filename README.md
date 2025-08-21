@@ -9,13 +9,20 @@ A key feature of Mira is its ability to **recognize when it does not have an ans
 
 ## About This Repository
 
-This repository contains the specific list of **public documents** curated and maintained by the **Molecule team**. These documents serve as the **contextual knowledge base** for Mira v0, enabling the model to provide **precise and relevant responses**.
+This repository contains the automated crawler infrastructure that powers Mira v0's knowledge base. It includes:
+
+- Web crawler script that fetches content from curated sources
+- Embedding generation logic to process and vectorize the collected documents
+- Database management for storing and organizing the processed content
+- GitHub Actions workflow that runs the crawler on a daily schedule
+
+The crawler automatically collects and processes public documents from sources curated and maintained by the Molecule team, transforming them into the contextual knowledge base that enables Mira to provide precise and relevant responses.
 
 ---
 
 ## Main Sources
 
-Mira v0 uses the following curated sources as its knowledge context:
+The crawler collects and processes content from the following curated sources:
 
 - [Molecule Documentation](https://molecule.to/)
 - [Molecule Blogs](https://molecule.to/blog)
